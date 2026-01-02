@@ -1,4 +1,4 @@
----
+https://github.com/flutter/website/blob/9927a5d3bd501d541b776da967ef6a336cd23862/src/content/get-started/index.md---
 title: Get started with Flutter
 shortTitle: Get started
 description: >-
